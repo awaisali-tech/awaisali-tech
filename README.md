@@ -1,46 +1,28 @@
+<div align="center">
+
+<img src="./assets/banner.png" alt="Awais Ali Banner" width="100%" />
+
 # Hi, I'm Awais Ali 👋
 
 ### Python & Applied AI Engineer
 
-I build end-to-end AI applications and Python systems — from retrieval and model logic to APIs, evaluation, safety and deployment.
+I build Python backend, RAG, and AI systems.
 
-Currently focused on:
+<p>
+  <a href="https://awaisali-tech.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/awais-ali-1a6616300/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:awaisali7467@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://awaisali-tech.github.io/assets/Awais_Ali_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-1F2937?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
 
-- 🧠 RAG & LLM applications
-- ⚙️ Python backend development
-- 🔎 Retrieval, embeddings & vector search
-- 🤖 Machine learning and computer vision
-- 🧪 Testing, evaluation & reliable AI systems
+**RAG • FastAPI • LLM Systems • Machine Learning • Computer Vision**
 
-## Featured Projects
-
-### 🏥 ClinicCare Assistant
-Production-style RAG assistant combining structured retrieval, FAISS, grounding, privacy controls, safety layers and automated evaluation.
-
-**Python · FAISS · Sentence Transformers · Groq · Streamlit**
-
-[Repository] | [Live Demo]
-
-### 🎥 YouTube RAG Chatbot
-Conversational RAG application that turns YouTube transcripts into searchable knowledge bases.
-
-**Python · LangChain · FAISS · Hugging Face · Streamlit**
-
-[Repository] | [Live Demo]
-
-### 👤 Face Recognition Pipeline
-Video-based facial recognition system using embeddings, threshold-based matching and unknown-person detection.
-
-**Python · OpenCV · dlib · face_recognition**
-
-## Tech Stack
-
-Python • FastAPI • LangChain • FAISS • ChromaDB • Pandas • NumPy • Scikit-learn • PyTorch • TensorFlow • OpenCV • PostgreSQL • Docker
-
-## Let's Connect
-
-🌐 Portfolio: https://awaisali-tech.github.io/
-
-💼 LinkedIn: https://www.linkedin.com/in/awais-ali-1a6616300/
-
-📧 Email: awaisali7467@gmail.com
+</div>
