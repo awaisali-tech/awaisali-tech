@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Awais Ali Banner" width="100%" />
+<img src=".banner.png" alt="Awais Ali Banner" width="100%" />
 
 # Hi, I'm Awais Ali 👋
 
